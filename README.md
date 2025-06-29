@@ -55,7 +55,7 @@ pip install pdf2image pillow python-pptx
 ### Command Line Interface
 
 ```bash
-python pdf_to_pptx.py input.pdf output.pptx --dpi=400
+python pdf2pptx.py
 ```
 
 ### How It Works
